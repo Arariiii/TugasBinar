@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ExBinar</string>
+    <string name="judulkertas">Kertas</string>
+    <string name="judulgunting">Gunting</string>
+    <string name="judulbatu">Batu</string>
+    <string name="ggplayer1">Pemain 1</string>
+    <string name="ggCOM">COM</string>
+    <string name="pemain_1_batu">Pemain 1 Batu</string>
+    <string name="com_batu">Com Batu</string>
+    <string name="com_kertas">COM Kertas</string>
+    <string name="pemain_1_kerta">Pemain 1 Kertas</string>
+    <string name="pemain_1_gunting">Pemain 1 Gunting</string>
+    <string name="com_gunting">COM Gunting</string>
+    <string name="tombol_refresh">Tombol Refresh</string>
+    <string name="vs">VS</string>
+    <string name="hasildraw">DRAW!</string>
+    <string name="p2menang">"Pemain 2\nMENANG!"</string>
+    <string name="p1menang">"Pemain 1\nMENANG!"</string>
+
+
+</resources>
